@@ -1,2 +1,5 @@
-# Register-For-application
-php register code contain sign up sign in send otp code for  user any application using php mailer 
+#API Register 
+
+The API Register Academy is a PHP-based authentication system that allows users to sign up and log in securely. The signup process collects essential information including first name, last name, email, password, phone number, birthday, and gender. Upon registration, a 6-digit OTP (One-Time Password) is generated and sent via PHPMailer for account verification. The system also features a login functionality using email and password, ensuring a seamless and secure authentication process. Users can request a password reset through the "Forgotten" file, which triggers the generation of a new OTP for account recovery. Additionally, users have the option to update their information using the "newda" file, which requires providing an email address for identification. The system prioritizes security and user-friendly functionality to enhance the overall user experience.
+
+Feel free to adjust or expand upon this description to better suit your project's specific details and features. If you have any further information or specific points you'd like to highlight, please let me know!
